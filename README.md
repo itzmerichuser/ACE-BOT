@@ -64,6 +64,6 @@ Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
 </p>
 
 
-## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/hypermod)
+
+
