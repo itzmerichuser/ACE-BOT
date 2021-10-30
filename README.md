@@ -13,7 +13,7 @@
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HYPER-MOD/Queen-Alexa)
-# ```ALEXA-BUG-BOT```
+# ```RICHUSER-ACE-BOT```
 <p align="center">
 <a href="https://github.com/HYPER-MOD/followers"><img title="Followers" src="https://img.shields.io/github/followers/HYPER-MOD?color=red&style=flat-square"></a>
 <a href="https://github.com/HYPER-MOD/Queen-Alexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HYPER-MOD/bug-bot?color=blue&style=flat-square"></a>
