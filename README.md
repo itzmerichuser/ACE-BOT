@@ -45,12 +45,12 @@ WhatsApp Bot
 
 ## `CHANGE DYNO`
 
-Off in web ny | ඔෆ් කරන්න web එක | turn off web button.
+Off in web ny | turn off web button.
 
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/c/HYPERMOD"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
+  <a href="https://youtube.com/channel/UCjRWOcWWKDmBxnWuBkqUvXQ"><img src="https://i.ibb.co/TPqc8cv/Screenshot-2021-10-14-12-00-45-610-com-android-chrome.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
