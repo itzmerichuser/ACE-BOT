@@ -1,14 +1,14 @@
 # ACE-BOT
 
 <img
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+Gif+To+Install+The+Bot."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Click+On+The+img+To+Install+The+acebot."
             alt="Typing SVG"
         />
     </a>
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://youtu.be/BcMIibIUmHc"><img src="acebot"/>
+  <a href="https://youtu.be/BcMIibIUmHc"> <img src=acebot.jpg>
 </p>g
 WhatsApp Bot
 
